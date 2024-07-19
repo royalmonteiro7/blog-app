@@ -1,0 +1,13 @@
+.post-details {
+    padding: 20px;
+}
+
+.post-details img {
+    max-width: 100%;
+}
+
+.post-details button {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
